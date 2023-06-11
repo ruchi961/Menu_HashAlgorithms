@@ -1,5 +1,5 @@
 # :green_circle: Menu_HashAlgorithms
-Contains python implementation of a menu wherein different hash algorithms are displayed.
+Contains **python implementation of a menu wherein different hash algorithms** are displayed and upon selection provide the **hash value** of the data entered.
 
 ## > Information
 
